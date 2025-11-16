@@ -14,7 +14,7 @@ https://www.kaggle.com/models/valery1891/pythia-lora тут pythia после т
 <img width="1165" height="721" alt="image" src="https://github.com/user-attachments/assets/02dfe5fd-3384-44d9-a2ac-d6f509744a94" />
 <img width="484" height="695" alt="image" src="https://github.com/user-attachments/assets/dd59822d-a648-4e29-8d61-db5bf8f6ed2a" />
 
-2. С pythia модель я обучила, но заинференсить не успела. Все скрипты обучения есть на гите
+2. С pythia модель я обучила, (ошибка в ноутбуке потому что на сервере не хватило памяти чтобы скачать модель...) но заинференсить не успела. Все скрипты обучения есть на гите
 <img width="1102" height="681" alt="image" src="https://github.com/user-attachments/assets/06d904c8-c17b-4868-ad16-d9864b77063c" />
 
 
